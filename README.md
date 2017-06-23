@@ -1,5 +1,5 @@
 ### profile
-This is a angular2 with animate.css application program.
+This is a angular2 application program based on bootstrap,jquery and animate.css.
 ### how to use
 ```
 cnpm i @types/bootstrap @types/jquery --save
